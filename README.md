@@ -1,7 +1,9 @@
 # Movie Review
-This repo is created for Dicoding online class named "Menjadi Android Developer Expert".
+This repo is created for Dicoding online class named "Belajar Fundamental Aplikasi Android".
 
 ## Submission 1
+Anda sudah mempelajari komponen-komponen dasar Android pada modul Fundamentals.  Untuk  mempelajari modul berikutnya, kirimkan proyek aplikasi dengan tema **Movie Catalogue**. Aplikasi Movie Catalogue adalah aplikasi yang menampilkan daftar film beserta detailnya. Data film yang digunakan adalah data lokal yang bisa Anda dapatkan pada bagian Resources di bawah.
+
 ### Daftar Film
 * Menggunakan ListView untuk menampilkan daftar film dengan jumlah minimal 10 item.
 
@@ -11,6 +13,8 @@ This repo is created for Dicoding online class named "Menjadi Android Developer 
 ---
 
 ## Submission 2
+Anda sudah mempelajari salah satu aspek penting ketika mengembangkan sebuah aplikasi yaitu UI/UX. Untuk mempelajari modul berikutnya, Anda perlu mengirimkan proyek aplikasi dengan tema **Movie Catalogue (UI/UX)**. Aplikasi Movie Catalogue (UI/UX) merupakan pengembangan dari aplikasi pada submission sebelumnya. Pada submission ini Anda diharuskan untuk menerapkan komponen - komponen UI/UX seperti **Fragment**, **RecyclerView**, **ConstraintLayout**, **dsb**.
+
 ### Daftar Film
 * Terdapat 2 (dua) halaman yang menampilkan daftar film (**Movies** dan **Tv Show**).
 * Menggunakan **Fragment** untuk menampung halaman **Movies** dan **Tv Show**.
@@ -27,6 +31,8 @@ This repo is created for Dicoding online class named "Menjadi Android Developer 
 ---
 
 ## Submission 3
+Anda sudah mempelajari beberapa hal tentang Background Service, salah satunya adalah bagaimana cara mendapatkan data dari internet menggunakan `AsyncTaskLoader`. Untuk lanjut mempelajari modul berikutnya, kirimkan proyek aplikasi dengan tema Anda perlu **Movie Catalogue (API)**. Jika pada submission sebelumnya Anda hanya memanfaatkan data lokal untuk ditampilkan, kali ini data yang akan ditampilkan adalah data dari API, yaitu [The Movie DB](https://www.themoviedb.org/).
+
 ### Daftar film
 * Terdapat 2 (dua) halaman yang menampilkan daftar film (Movies dan Tv Show)
 * Menggunakan Fragment untuk menampung halaman Movies dan Tv Show.
@@ -47,6 +53,8 @@ This repo is created for Dicoding online class named "Menjadi Android Developer 
 ---
 
 ## Submission 4
+Anda sudah mempelajari bagaimana konsep penyimpanan lokal pada aplikasi Android. Untuk mempelajari modul selanjutnya, Anda perlu mengirimkan proyek aplikasi dengan tema **Movie Catalogue (Local Storage)**. Movie Catalogue (Local Storage) adalah sebuah aplikasi yang merupakan lanjutan dari submission sebelumnya. Pada proyek ini Anda perlu menerapkan **SQLite** sebagai media penyimpanan lokal. 
+
 ### Daftar film
 * Terdapat 2 (dua) halaman yang menampilkan daftar film (Movies dan Tv Show).
 * Menggunakan Fragment untuk menampung halaman Movies dan Tv Show.

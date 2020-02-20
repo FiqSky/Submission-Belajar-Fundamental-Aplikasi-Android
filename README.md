@@ -81,6 +81,7 @@ Anda sudah mempelajari bagaimana konsep penyimpanan lokal pada aplikasi Android.
 ---
 
 ## Final Project
+Selamat, Anda telah berada di akhir pembelajaran dalam akademi ini. Anda telah belajar banyak tentang pengembangan aplikasi berbasis Android. Untuk bisa lulus dari akademi ini Anda akan memodifikasi proyek submission **Aplikasi Movie Catalogue (Local Storage)** dengan menambahkan beberapa fitur. Anda bisa memanfaatkan beberapa materi yang telah dipelajari. Selamat berkreasi!
 ### Pencarian film
 * Pengguna dapat melakukan pencarian Movies.
 * Pengguna dapat melakukan pencarian Tv Show.

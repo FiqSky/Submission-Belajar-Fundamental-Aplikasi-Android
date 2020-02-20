@@ -1,4 +1,4 @@
-# Movie Review
+# Thanks Dicoding Academy
 This repo is created for Dicoding online class named "Belajar Fundamental Aplikasi Android".
 
 ## Submission 1
